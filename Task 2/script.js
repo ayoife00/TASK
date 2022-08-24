@@ -10,5 +10,5 @@ for (let i = 0; i < number.length; i++) {
         largest = value;
     }
 }
-//Create Alert
+//Create Alert for highest number
 alert(`output: ${largest}`);
