@@ -11,5 +11,5 @@ for(let i=0; i<numbers.length; i++){
         highest = numbers[i]
     }
 } 
-//Use the alert command
+//Use the alert command to check the largest
 alert(`output: ${largest}`);
