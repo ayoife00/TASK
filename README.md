@@ -13,7 +13,7 @@ highest number in the array and  use the alert function to display the output of
 
 ```
 
-##Author
+### Author
 
 - [@ayoife00](https://github.com/ayoife00)
 
